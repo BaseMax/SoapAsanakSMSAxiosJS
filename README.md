@@ -1,7 +1,8 @@
 # Soap Asanak SMS Axios JavaScript
 
-**SoapAsanakSMSAxiosJS** is a Node.js library for sending SMS messages via the Asanak SOAP SMS gateway.
-It allows you to send messages with raw SOAP XML and logs both request and response for debugging. Credentials and configuration can be managed through a `.env` file.
+**SoapAsanakSMSAxiosJS** is a Node.js library for sending SMS messages through the Asanak SOAP SMS gateway using Axios.
+It sends raw SOAP XML requests and provides full debugging logs, including both the outgoing SOAP request and the incoming SOAP response.
+All credentials and configuration values can be easily managed through a .env file.
 
 ---
 
