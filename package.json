@@ -1,7 +1,7 @@
 {
   "name": "soap-asanak-sms-axios",
-  "version": "1.0.6",
-  "description": "Node.js library to send SMS via Asanak SOAP API",
+  "version": "1.0.7",
+  "description": "A Node.js library for sending SMS via the Asanak SOAP API, fully built on Axios and handling SOAP requests without any SOAP library, purely using raw Axios HTTP XML requests and responses.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
