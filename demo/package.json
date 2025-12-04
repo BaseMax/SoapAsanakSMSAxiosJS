@@ -1,6 +1,6 @@
 {
   "main": "test.js",
   "dependencies": {
-    "soap-asanak-sms-axios": "^1.0.0"
+    "soap-asanak-sms-axios": "^1.0.6"
   }
 }
