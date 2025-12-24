@@ -32,7 +32,7 @@ All credentials and configuration values can be easily managed through environme
 ## Installation
 
 ```bash
-npm install soap-asanak-sms-axios
+npm install soap-asanak-sms
 ```
 
 Or clone the repository:
@@ -65,7 +65,7 @@ The library will automatically load `.env` from the current folder or parent dir
 ### Using
 
 ```javascript
-const AsanakSms = require("soap-asanak-sms-axios");
+const AsanakSms = require("soap-asanak-sms");
 
 const sms = new AsanakSms({});
 ```
