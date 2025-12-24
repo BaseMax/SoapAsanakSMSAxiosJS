@@ -1,4 +1,4 @@
-const AsanakSms = require("soap-asanak-sms");
+const AsanakSms = require("soap-asanak-sms-axios");
 
 const sms = new AsanakSms({ username: "", password: "", srcAddress: "", baseurl: "https://smsapi.asanak.ir/services/CompositeSmsGateway?wsdl", debug: false, });
 

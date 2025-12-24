@@ -1,6 +1,6 @@
 {
-  "name": "soap-asanak-sms",
-  "version": "1.0.8",
+  "name": "soap-asanak-sms-axios",
+  "version": "1.0.9",
   "description": "A Node.js library for sending SMS via the Asanak SOAP API, fully built on Axios and handling SOAP requests without any SOAP library, purely using raw Axios HTTP XML requests and responses.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BaseMax/SoapAsanakSMSJS.git"
+    "url": "git+https://github.com/BaseMax/SoapAsanakSMSAxiosJS.git"
   },
   "keywords": [
     "SMS",
@@ -20,9 +20,9 @@
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/BaseMax/SoapAsanakSMSJS/issues"
+    "url": "https://github.com/BaseMax/SoapAsanakSMSAxiosJS/issues"
   },
-  "homepage": "https://github.com/BaseMax/SoapAsanakSMSJS#readme",
+  "homepage": "https://github.com/BaseMax/SoapAsanakSMSAxiosJS#readme",
   "dependencies": {
   }
 }
