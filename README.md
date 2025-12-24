@@ -52,7 +52,7 @@ Create a `.env` file in your project root:
 ```env
 ASANAK_USERNAME=your_username
 ASANAK_PASSWORD=your_password
-ASANAK_SOURCE_NUMBER=982175181
+ASANAK_SOURCE_NUMBER=your_number
 ASANAK_WEBSERVICE=https://smsapi.asanak.ir/services/CompositeSmsGateway?wsdl
 ```
 
